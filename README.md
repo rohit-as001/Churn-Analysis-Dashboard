@@ -35,7 +35,7 @@ This type of analysis is directly applicable to real-world business challenges i
 - Subscription Plans: Free, Family, Premium
 - Payment Methods: Auto-Debit, Card, UPI, Wallet
 - Music Genres Tracked: Rock, HipHop, Pop, Jazz, EDM, Classical
-- 
+
 
 
 
