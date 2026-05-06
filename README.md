@@ -50,21 +50,21 @@ This type of analysis is directly applicable to real-world business challenges i
 
 2) Device-Based Churn
 
-  - Android users (~36%) have the highest churn rate.
-  - Followed by iOS (~34%) and Web (~30%).
+  - Android users (~30.95%) have the highest churn rate.
+  - Followed by iOS (~30.32%) and Web (~30.83%).
 
 
 3) Network Type Analysis
 
-  - Churn is highest among 4G users (~34%), followed by 5G (~34%) and WiFi (~32%).
-  - Web platform users churn at 36.19% — the highest of all device types — followed by Android (33.92%) and iOS (29.89%). iOS users are the most loyal, churning at nearly 6 percentage points less than web users. This suggests the web streaming experience is significantly underperforming relative to mobile apps — possibly due to inferior UI/UX, slower performance, or a lack of web-exclusive features.
+  - Churn is highest among 4G users (~29.93%), followed by 5G (~31.87%) and WiFi (~30.30%).
+  - Android platform users churn at 30.95% — the highest of all device types — followed by Web (30.83%) and iOS (30.32%). iOS users are the most loyal, churning at nearly 6 percentage points less than web users. This suggests the web streaming experience is significantly underperforming relative to mobile apps — possibly due to inferior UI/UX, slower performance, or a lack of web-exclusive features.
 
 
 4) Buffering Time Impact
 
   - Churn increases significantly with higher buffering times (3–4 seconds).
   - Lower buffering times (1–2 seconds) have reduced churn.
-  - Churn rate by buffering time shows a non-obvious pattern: churn peaks at 0–1 second (20.47%), dips in the middle, rises again at 3–4 seconds (21.53%), and drops sharply at 4+ seconds (18.20%). This counterintuitive result suggests that users experiencing near-zero buffering still churn — indicating that buffering alone is not the primary driver of churn, and other factors (content quality, pricing, competition) play a dominant role.
+  - Churn rate by buffering time shows a non-obvious pattern: churn peaks at 0–1 second (31.71%), dips in the middle, rises again at 3–4 seconds (31.44%), and drops sharply at 4+ seconds (29.01%). This counterintuitive result suggests that users experiencing near-zero buffering still churn — indicating that buffering alone is not the primary driver of churn, and other factors (content quality, pricing, competition) play a dominant role.
 
     
 5️) Demographic Insights
