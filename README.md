@@ -162,4 +162,4 @@ This dashboard provides a deep understanding of customer churn behavior, enablin
 By focusing on user experience, personalization, and subscription optimization, organizations can significantly improve customer retention and lifetime value.
 
 
-        _"Retention is not about keeping customers — it's about understanding why they leave and removing every reason to go."_
+ _"Retention is not about keeping customers — it's about understanding why they leave and removing every reason to go."_
